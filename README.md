@@ -7,15 +7,21 @@ There are 2 datasets, data and Country-Code. Dataset data has 19 attributes and 
 
 **Step to perform:**
 **Importing, Understanding, and Inspecting Data :**
+
 Perform preliminary data inspection and report the findings as the structure of the data, missing values, duplicates, etc.
+
 Based on the findings from the previous questions, identify duplicates and remove them
 
 **Performing EDA:**
-Explore the geographical distribution of the restaurants and identify the cities with the maximum and minimum number of restaurants
-Restaurant franchising is a thriving venture. So, it is very important to explore the franchise with most national presence
+
+Identify the cities with the maximum and minimum number of restaurants
+
 Find out the ratio between restaurants that allow table booking vs. those that do not allow table booking
+
 Find out the percentage of restaurants providing online delivery
+
 Calculate the difference in number of votes for the restaurants that deliver and the restaurants that do not deliver
+
 What are the top 10 cuisines served across cities?
-What is the maximum and minimum number of cuisines that a restaurant serves? Also, which is the most served cuisine across the restaurant for each city?
+
 Explain the factors in the data that may have an effect on ratings. For example, number of cuisines, cost, delivery option, etc.
